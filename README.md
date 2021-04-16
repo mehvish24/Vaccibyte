@@ -38,7 +38,9 @@ Click on the link http://127.0.0.1:5000/ that will be available to check your co
 
 ![The csv file after two POST operations!](https://user-images.githubusercontent.com/82588312/115045644-53331e80-9ef4-11eb-8bd8-e99239378686.png)
 
-![For POST request](https://user-images.githubusercontent.com/82588312/115043335-0a7a6600-9ef2-11eb-9271-6c15c11ccdcd.png)
+![For POST request]<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/82588312/115043335-0a7a6600-9ef2-11eb-9271-6c15c11ccdcd.png">
+</p>
 
 ![The csv file after one DELETE operation!!](https://user-images.githubusercontent.com/82588312/115045936-97262380-9ef4-11eb-90ca-702da0352f0a.png)
 
