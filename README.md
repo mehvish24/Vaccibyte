@@ -32,19 +32,29 @@ Click on the link http://127.0.0.1:5000/ that will be available to check your co
 
 **STEP 5:** _Check in POSTMAN all the endpoints, for GET, POST & DELETE._
 
-![The original patient.csv file](https://user-images.githubusercontent.com/82588312/115044601-49f58200-9ef3-11eb-8139-e408a8d9d5a3.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/82588312/115044601-49f58200-9ef3-11eb-8139-e408a8d9d5a3.png">
+</p>
 
-![For GET request](https://user-images.githubusercontent.com/82588312/115042977-9e97fd80-9ef1-11eb-9107-0abdb7ef3bc3.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/82588312/115042977-9e97fd80-9ef1-11eb-9107-0abdb7ef3bc3.png">
+</p>
 
-![The csv file after two POST operations!](https://user-images.githubusercontent.com/82588312/115045644-53331e80-9ef4-11eb-8bd8-e99239378686.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/82588312/115045644-53331e80-9ef4-11eb-8bd8-e99239378686.png">
+</p>
 
-![For POST request]<p align="center">
+<p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/82588312/115043335-0a7a6600-9ef2-11eb-9271-6c15c11ccdcd.png">
 </p>
 
-![The csv file after one DELETE operation!!](https://user-images.githubusercontent.com/82588312/115045936-97262380-9ef4-11eb-90ca-702da0352f0a.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/82588312/115045936-97262380-9ef4-11eb-90ca-702da0352f0a.png">
+</p>
 
-![For DELETE request](https://user-images.githubusercontent.com/82588312/115043604-4e6d6b00-9ef2-11eb-9625-6baeb3534d9e.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/82588312/115043604-4e6d6b00-9ef2-11eb-9625-6baeb3534d9e.png">
+</p>
 
 
 In same way can be done for other endpoints.
