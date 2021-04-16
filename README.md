@@ -14,11 +14,17 @@ For the same application we created a DOCKER IMAGE on the local machine, the doc
 #### Steps of the work:
 **STEP 1:** _Importing the required packages in the python IDE_
 
-![Packages needed!](https://user-images.githubusercontent.com/82588312/115039573-3562bb00-9eee-11eb-81f0-a17ddc07389f.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/82588312/115039573-3562bb00-9eee-11eb-81f0-a17ddc07389f.png">
+</p>
+
 
 **STEP 2:** _Creating the rest endpoints._ We have three endpoints in the application we are creating & we will also write the code blocks for all three which we are going to fill with methods later.These methods will be used to implement GET, POST & DELETE operations on the csv files later.
 
-![Code!!](https://user-images.githubusercontent.com/82588312/115040072-adc97c00-9eee-11eb-9031-1c00c2500a2c.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/82588312/115040072-adc97c00-9eee-11eb-9031-1c00c2500a2c.png">
+</p>
+
 
 **STEP 3:** _Write the code to read-write data into csv files & also delete data for some endpoints._
 
@@ -26,7 +32,10 @@ Check the code [here!!](https://github.com/mehvish24/Vaccibyte/blob/main/app.py)
 
 **STEP 4:** _Running the web server on local machine._
 
-![Program after running!!](https://user-images.githubusercontent.com/82588312/115042224-e8341880-9ef0-11eb-90ae-72cc480859ba.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/82588312/115042224-e8341880-9ef0-11eb-90ae-72cc480859ba.png">
+</p>
+
 
 Click on the link http://127.0.0.1:5000/ that will be available to check your code on the local machine.
 
