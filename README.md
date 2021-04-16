@@ -1,5 +1,5 @@
 # Vaccibyte
-Done by: Mehvish Hafiz, Nallani Mounika, Shruti Laya.
+Done by: Mehvish Hafiz, Nallani Mounika, Shruthi Laya.
 This is a vaccine repository using csv files.
 In this we have used Flask, Rest-APIs. The language used is Python.
 In this project we have used three csv files that are used to store vaccine, userand patient information. On those csv files we can perform three API operations i.e; GET, POST, DELETE.
