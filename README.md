@@ -17,13 +17,17 @@ For the same application we created a DOCKER IMAGE on the local machine, the doc
 ![Packages needed!](https://user-images.githubusercontent.com/82588312/115039573-3562bb00-9eee-11eb-81f0-a17ddc07389f.png)
 
 **STEP 2:** _Creating the rest endpoints._ We have three endpoints in the application we are creating & we will also write the code blocks for all three which we are going to fill with methods later.These methods will be used to implement GET, POST & DELETE operations on the csv files later.
+
 ![Code!!](https://user-images.githubusercontent.com/82588312/115040072-adc97c00-9eee-11eb-9031-1c00c2500a2c.png)
 
 **STEP 3:** _Write the code to read-write data into csv files & also delete data for some endpoints._
+
 Check the code [here!!](https://github.com/mehvish24/Vaccibyte/blob/main/app.py)
 
 **STEP 4:** _Running the web server on local machine._
+
 ![Program after running!!](https://user-images.githubusercontent.com/82588312/115042224-e8341880-9ef0-11eb-90ae-72cc480859ba.png)
+
 Click on the link http://127.0.0.1:5000/ that will be available to check your code on the local machine.
 
 **STEP 5:** _Check in POSTMAN all the endpoints, for GET, POST & DELETE._
@@ -39,6 +43,7 @@ Click on the link http://127.0.0.1:5000/ that will be available to check your co
 ![The csv file after one DELETE operation!!](https://user-images.githubusercontent.com/82588312/115045936-97262380-9ef4-11eb-90ca-702da0352f0a.png)
 
 ![For DELETE request](https://user-images.githubusercontent.com/82588312/115043604-4e6d6b00-9ef2-11eb-9625-6baeb3534d9e.png)
+
 
 In same way can be done for other endpoints.
 
