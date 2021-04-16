@@ -77,7 +77,7 @@ Click on the link http://127.0.0.1:5000/ that will be available to check your co
 
 <h5 align="center">The DELETE request on POSTMAN.</h5>
 
-Can be done In same way can be done for other endpoints.
+It can be done in the same way for other endpoints.
 
 #### **Conclusion:** 
 By following the steps above we can create a REST API easily with Flask & Python and can also test it on POSTMAN on the local machine.
