@@ -1,0 +1,5 @@
+vaccinename,vaccinecompany,expirationdate,quantity,usage,cost
+Biothrax,Daily Med,08-02-2022,100,Anthrax,2000
+Vaxchora,FDA,10-05-2024,150,Cholera,300
+Daptacel,FDA,11-03-2024,200,Diphtheria,1000
+Adacel,Daily Med,15-01-2021,50,Diphtheria,800
