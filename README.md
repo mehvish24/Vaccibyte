@@ -79,7 +79,7 @@ Click on the link http://127.0.0.1:5000/ that will be available to check your co
 
 It can be done in the same way for other endpoints.
 
-#### **Creating Docker Image for same code: **
+#### Creating Docker Image for same code: 
 **STEP 1:** _Creating a Dockerfile._
 You can check the code [here!!](https://github.com/mehvish24/Vaccibyte/blob/main/Dockerfile)
 
@@ -105,8 +105,8 @@ You can check the code [here!!](https://github.com/mehvish24/Vaccibyte/blob/main
 
 
 
-#### **Conclusion:** 
-By following the steps above we can create a REST API easily with Flask & Python and can also test it on POSTMAN on the local machine.
+#### Conclusion: 
+By following the steps above we can create a REST API easily with Flask & Python and can also test it on POSTMAN on the local machine. We can also create an image for the same code by following steps mentioned above.
 
 
 
