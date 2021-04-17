@@ -79,6 +79,32 @@ Click on the link http://127.0.0.1:5000/ that will be available to check your co
 
 It can be done in the same way for other endpoints.
 
+#### **Creating Docker Image for same code: **
+**STEP 1:** _Creating a Dockerfile._
+You can check the code [here!!](https://github.com/mehvish24/Vaccibyte/blob/main/Dockerfile)
+
+**STEP 2:** _Creating a requirements.txt file._
+You can check the code [here!!](https://github.com/mehvish24/Vaccibyte/blob/main/requirements.txt)
+
+**STEP 3:** _Creating a docker-compose.yml file._
+You can check the code [here!!](https://github.com/mehvish24/Vaccibyte/blob/main/docker-compose.yml)
+
+**STEP 4:** _Using Command docker-compose build in terminal to build the image, I used it in Python IDE terminal. _
+
+<p align="center">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/82588312/115117641-3f9fba80-9fbd-11eb-88b2-abfafe7753c4.png">
+</p>
+
+
+
+**STEP 4:** _Using Command docker-compose up in terminal to run the image on container._
+
+<p align="center">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/82588312/115117727-af15aa00-9fbd-11eb-9a9f-77fc461966a9.png">
+</p>
+
+
+
 #### **Conclusion:** 
 By following the steps above we can create a REST API easily with Flask & Python and can also test it on POSTMAN on the local machine.
 
