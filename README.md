@@ -89,7 +89,7 @@ You can check the code [here!!](https://github.com/mehvish24/Vaccibyte/blob/main
 **STEP 3:** _Creating a docker-compose.yml file._
 You can check the code [here!!](https://github.com/mehvish24/Vaccibyte/blob/main/docker-compose.yml)
 
-**STEP 4:** _Using Command docker-compose build in terminal to build the image, I used it in Python IDE terminal. _
+**STEP 4:** _Using Command docker-compose build in terminal to build the image, I used it in Python IDE terminal._
 
 <p align="center">
   <img width="600" height="300" src="https://user-images.githubusercontent.com/82588312/115117641-3f9fba80-9fbd-11eb-88b2-abfafe7753c4.png">
